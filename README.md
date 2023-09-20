@@ -25,7 +25,7 @@ Here are some of the projects I have recently contributed to:
 
 ## Connect with me 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/eduardo-marques-lira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/eduardo-marques-lira](https://www.linkedin.com/in/eduardo-marques-lira/))
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/EduardoMLira)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/lira_duds/)
 
