@@ -12,7 +12,7 @@ Here are some of the projects I have recently contributed to:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoMLira&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EduardoMLira/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoMLira&repo=Pagina-simples-usando-HTML&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EduardoMLira/Pagina-simples-usando-HTML)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoMLira&repo=Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/EduardoMLira/dio-lab-open-source](https://github.com/EduardoMLira/Pokedex))
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoMLira&repo=simple-banking-system.&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EduardoMLira/projeto_curriculo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoMLira&repo=projeto_curriculo.&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EduardoMLira/projeto_curriculo)
 
 https://github.com/EduardoMLira/simple-banking-system.
 ## Hard Skills 💻
